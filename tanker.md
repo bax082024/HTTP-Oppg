@@ -5,7 +5,7 @@
 
 - funskjoner vi kan bruke for å kommunisere med server / api og utføre forskjellige oppgaver. 
 - Eksempel. når vi besøker www.ba.no så sender du en GET request, og informasjonen (avisen) blir levert til deg i nettleser.
-- Altinn. GET - for å for eksempel se informasjon på skattekort.
+- Altinn. GET - for eksempel se informasjon på skattekort.
           POST - sender informasjon du vil skal oppdateres på skattekortet, for eksempel økt barnebidrag hehe.
           DELETE - da er du død og blir slettet fra skattesystemet haha :P
 
