@@ -4,6 +4,7 @@
 ## Hva er HTTP
 
 - funskjoner vi kan bruke for å kommunisere med server / api og utføre forskjellige oppgaver. 
+- Eksempel. når vi besøker www.ba.no så sender du en GET request, og informasjonen (avisen) blir levert til deg i nettleser.
 
 
 ## Eksempel Funsksjoner
