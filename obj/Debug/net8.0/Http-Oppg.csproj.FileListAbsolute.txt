@@ -1,0 +1,15 @@
+C:\HjemmeKode\C-Sharp\C-Sharp\Http-Oppg\bin\Debug\net8.0\Http-Oppg.exe
+C:\HjemmeKode\C-Sharp\C-Sharp\Http-Oppg\bin\Debug\net8.0\Http-Oppg.deps.json
+C:\HjemmeKode\C-Sharp\C-Sharp\Http-Oppg\bin\Debug\net8.0\Http-Oppg.runtimeconfig.json
+C:\HjemmeKode\C-Sharp\C-Sharp\Http-Oppg\bin\Debug\net8.0\Http-Oppg.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\Http-Oppg\bin\Debug\net8.0\Http-Oppg.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\Http-Oppg\obj\Debug\net8.0\Http-Oppg.GeneratedMSBuildEditorConfig.editorconfig
+C:\HjemmeKode\C-Sharp\C-Sharp\Http-Oppg\obj\Debug\net8.0\Http-Oppg.AssemblyInfoInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\Http-Oppg\obj\Debug\net8.0\Http-Oppg.AssemblyInfo.cs
+C:\HjemmeKode\C-Sharp\C-Sharp\Http-Oppg\obj\Debug\net8.0\Http-Oppg.csproj.CoreCompileInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\Http-Oppg\obj\Debug\net8.0\Http-Oppg.sourcelink.json
+C:\HjemmeKode\C-Sharp\C-Sharp\Http-Oppg\obj\Debug\net8.0\Http-Oppg.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\Http-Oppg\obj\Debug\net8.0\refint\Http-Oppg.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\Http-Oppg\obj\Debug\net8.0\Http-Oppg.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\Http-Oppg\obj\Debug\net8.0\Http-Oppg.genruntimeconfig.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\Http-Oppg\obj\Debug\net8.0\ref\Http-Oppg.dll

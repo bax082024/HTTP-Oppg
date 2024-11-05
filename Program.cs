@@ -26,6 +26,7 @@ namespace HttpFun
         Console.WriteLine("Data Received From joke API");
         Console.WriteLine(responseJoke);
       }
+      // Error function, if theres no response etc from the joke api
       catch (HttpRequestException e)
       {
         Console.WriteLine("\nExecption caught!");
