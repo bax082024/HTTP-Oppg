@@ -20,7 +20,15 @@ namespace HttpFun
         response.EnsureSuccessStatusCode();
 
         //Read The response as string
-        string responseBody = await response.Content.ReadAsStringAsync();
+        string responseJoke = await response.Content.ReadAsStringAsync();
+
+        // Print response 
+        Console.WriteLine("Data Received From joke API");
+        Console.WriteLine(responseJoke);
+      }
+      catch (HttpRequestException e)
+      {
+        Console.WriteLine("\nExecption caught!");
       }
     }
   }
