@@ -29,6 +29,7 @@ namespace HttpFun
       catch (HttpRequestException e)
       {
         Console.WriteLine("\nExecption caught!");
+        Console.WriteLine($"Message : {e.Message}");
       }
     }
   }
