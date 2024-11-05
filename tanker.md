@@ -8,15 +8,15 @@
 
 ### Altinn.no eksempel : 
 
-**GET**  for eksempel se informasjon på skattekort.
+**GET** - for eksempel se informasjon på skattekort.
 
-**POST**  sender informasjon du vil skal oppdateres på skattekortet som du ikke kan endre selv og som må vurderes av skattekontoret.
+**POST** - sender informasjon du vil skal oppdateres på skattekortet som du ikke kan endre selv og som må vurderes av skattekontoret.
 
-**PUT**  Oppdaterer eller legger til informasjon, for eksempel kontaktinformasjon , barnebidrag, reiseutgifter osv.
+**PUT** - Oppdaterer eller legger til informasjon, for eksempel kontaktinformasjon , barnebidrag, reiseutgifter osv.
 
-**DELETE**  da er du død og blir slettet fra skattesystemet haha :P
+**DELETE** - da er du død og blir slettet fra skattesystemet haha :P
 
-**PATCH**  for eksempel fikse på telefon nummert for du skrev 1 tall feil. 
+**PATCH** - for eksempel fikse på telefon nummert for du skrev 1 tall feil. 
 
 
 ## Eksempel Funsksjoner
