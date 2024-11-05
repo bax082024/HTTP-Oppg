@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Http-Oppg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9414fa67a307b26b8fabb61dd129b48b9a39c358")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12dd72a8ffa6a60a3bda1c455ec8fe548d5d0385")]
 [assembly: System.Reflection.AssemblyProductAttribute("Http-Oppg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Http-Oppg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
